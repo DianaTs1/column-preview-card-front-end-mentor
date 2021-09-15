@@ -1,0 +1,31 @@
+.card {
+	padding: 50px 30px;
+	overflow: hidden;
+	position: relative;
+}
+
+.card img {
+	margin-bottom: 30px;
+}
+
+.card h1 {
+	font-family: var(--headline-font);
+	font-size: 36px;
+	color: white;
+}
+
+.card p {
+	font-family: var(--body-font);
+	color: white;
+	margin: 40px auto 70px auto;
+	font-size: 15px;
+}
+
+@media screen and (min-width: 1140px) {
+	.card {
+		padding: 60px 30px;
+	}
+	.card p {
+		margin: 40px auto 70px auto;
+	}
+}

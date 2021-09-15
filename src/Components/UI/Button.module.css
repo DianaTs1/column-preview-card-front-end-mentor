@@ -1,0 +1,16 @@
+.button {
+	background-color: white;
+	outline-style: none;
+	border-style: none;
+	padding: 10px 40px;
+	border-radius: 30px;
+	font-family: var(--body-font);
+	max-width: max-content;
+	position: absolute;
+	bottom: 40px;
+	cursor: pointer;
+}
+
+.button:hover {
+	padding: 11px 40px;
+}
