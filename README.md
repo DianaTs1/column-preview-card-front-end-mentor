@@ -20,9 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/DianaTs1/column-preview-card-front-end-mentor.git
-- Live Site URL: https://github.com/DianaTs1/column-preview-card-front-end-mentor.git
-
-
+- Live Site URL: https://dianats1.github.io/column-preview-card-front-end-mentor/
 ### Built with
 
 - Semantic HTML5 markup
