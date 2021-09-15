@@ -11,13 +11,17 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![screencapture-localhost-3000-2021-09-15-18_15_55](https://user-images.githubusercontent.com/73934231/133519790-354c79a3-b38f-408e-ae86-31767b9834c6.png)
+
+
+![screencapture-localhost-3000-2021-09-15-18_16_22](https://user-images.githubusercontent.com/73934231/133519866-23d31da3-2c58-4835-9ef9-bb27bc7d6d97.png)
+
 
 ### Links
 
 - Solution URL: https://github.com/DianaTs1/column-preview-card-front-end-mentor.git
 - Live Site URL: https://github.com/DianaTs1/column-preview-card-front-end-mentor.git
 
-## My process
 
 ### Built with
 
